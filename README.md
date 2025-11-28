@@ -114,15 +114,14 @@ scipy==1.7.0
 
 ## Results Summary
 
-| Model | R² Score | RMSE (psi) | MAE (psi) |
-|-------|----------|------------|-----------|
-| DFNN | 0.858 | 705 | - |
-| CNN | 0.878 | 653 | - |
-| RNN | 0.836 | 756 | - |
-| Random Forest | 0.880 | 648 | - |
-| XGBoost | 0.889 | 622 | - |
-| Transformer | 0.878 | 652 | - |
-| **Meta-Ensemble** | **0.915** | **547** | **397** |
-
+| Model | R² Score | RMSE (psi) |
+|-------|----------|------------|
+| DFNN | 0.858 | 705 |
+| CNN | 0.878 | 653 |
+| RNN | 0.836 | 756 |
+| Random Forest | 0.880 | 648 |
+| XGBoost | 0.889 | 622 |
+| Transformer | 0.878 | 652 |
+| **Meta-Ensemble** | **0.915** | **547** |
 
 
